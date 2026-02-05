@@ -79,28 +79,20 @@ I enjoy backend development, solving DSA problems, and deploying real-world syst
 
 ## 🏆 Achievements  
 
-- Solved **150+ DSA problems** (50+ on LeetCode)  
+- Solved **300+ DSA problems** (150+ on LeetCode)  
 - Participated in **3 Hackathons** (including Adobe Hackathon)  
 - Completed AI & ML Virtual Internship (Eduskill)  
 - NPTEL Certified – Introduction to Database Systems  
 
----
 
-## 📊 GitHub Stats  
-
-![Sadique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
 
 ---
 
 ## 🤝 Connect With Me  
 
 - 📧 Email: mdsadiqueshakeel@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🧠 LeetCode: https://leetcode.com/YOUR_PROFILE  
+- 💼 LinkedIn: https://www.linkedin.com/in/sadique-shakeel-a5bb29266/ 
+- 🧠 LeetCode: https://leetcode.com/u/sadiqueshakeel/  
 - 🌐 Portfolio: Coming Soon 🚀  
 
 ---

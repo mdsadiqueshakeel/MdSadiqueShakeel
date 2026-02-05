@@ -12,8 +12,8 @@ I enjoy backend development, solving DSA problems, and deploying real-world syst
 
 - 🎯 Preparing for **Big Tech Placements (2026–2027)**  
 - 🧠 Strong foundation in **Data Structures & Algorithms**  
-- ☁️ Experience with **AWS, Docker, CI/CD Pipelines**  
-- 🌱 Learning **Machine Learning + System Design**  
+- ☁️ Experience with **Backend Development, AWS, System Design**  
+- 🌱 Learning **Machine Learning + AI**  
 
 ---
 
